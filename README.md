@@ -49,7 +49,7 @@ I'm in my **third semester of MCA**, preparing for a major project in my final s
 
 ### 📫 Let’s Connect
 I’m always open to collaborating on projects or just chatting about tech and ideas. Connect with me here:
-- **GitHub**: [RishikaVerma](https://github.com/yourgithubusername)
+- **GitHub**: [HrishikhaVerma](https://github.com/hrishikaverma)
 - **LinkedIn**:https://www.linkedin.com/in/hrishika9131335013/
 
 Looking forward to coding together! 😄
