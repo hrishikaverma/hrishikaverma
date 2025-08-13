@@ -71,8 +71,9 @@ Showcases advanced frontend + backend integration.
 
 ---
 
-### 🌱 Currently Learning
-I'm in my **third semester of MCA**, preparing for a major project in my final semester. Right now, I'm diving deeper into advanced UI/UX techniques and exploring database optimizations to make my projects more efficient and appealing.
+### 🎓 Recently Graduated  
+I have recently completed my **Master of Computer Applications (MCA)**, finishing just a few days ago.  
+Currently, I’m focused on enhancing my expertise in **advanced UI/UX techniques** and **database optimization** to deliver projects that are both highly efficient and visually engaging.  
 
 ---
 
