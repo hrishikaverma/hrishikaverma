@@ -32,10 +32,15 @@ with a keen interest in building robust applications that solve real-world probl
 
 ---
 
-### 🌟 My Coding Strengths
-- **Database Management**: I’m all about **SQL databases** and optimizing relational databases to create seamless, scalable solutions.
-- **Web Development**: With a focus on **HTML, CSS, and JavaScript**, I enjoy crafting interfaces that are both user-friendly and visually appealing.
-- **UI/UX Design**: Incorporating **Bootstrap** for a polished look, I’m currently exploring animations and customization options to enhance user experiences.
+### 🌟 My Coding Strengths  
+
+- **Full-Stack Development**: Skilled in **React.js**, **Next.js**, **Node.js**, **Express**, and **MongoDB/PostgreSQL** for building scalable, responsive, and SEO-friendly applications.  
+- **Database Management**: Expertise in designing and optimizing **SQL** and **NoSQL** databases for high performance, including complex queries and efficient data structures.  
+- **Web Development**: Proficient in **HTML5, CSS3, JavaScript**, with experience in creating dynamic, interactive UIs and smooth transitions for engaging user experiences.  
+- **UI/UX Design**: Leveraging **Bootstrap** and modern animation libraries (**GSAP**, **Framer Motion**) to create clean, visually appealing, and intuitive interfaces.  
+- **AI/ML Integration**: Applying **Python**, **Machine Learning**, and **AI** concepts for real-time predictions and intelligent features in web applications.  
+- **Performance Optimization**: Focused on seamless navigation, quick load times, and accessibility across all devices.  
+
 
 ---
 
