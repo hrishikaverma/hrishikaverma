@@ -21,7 +21,14 @@
 
 ---
 
-I'm a passionate **MCA student** with a solid background in **Mathematics** and a deep love for coding, especially working with **SQL databases** and creating efficient, clean code. My journey started in Ujjain, where I completed my **B.Sc. in Mathematics**, and now I’m expanding my skills in software development and web technologies.
+I’m a passionate **MCA student** with a strong foundation in **Mathematics** and a deep enthusiasm for coding.  
+I specialize in working with **SQL databases** and writing efficient, clean, and maintainable code.  
+
+My academic journey began in **Ujjain**, where I earned my **B.Sc. in Mathematics**.  
+Currently, I’m expanding my expertise in **software development** and **modern web technologies**,  
+with a keen interest in building robust applications that solve real-world problems.  
+
+💡 Always eager to learn, explore, and innovate in the ever-evolving tech landscape.  
 
 ---
 
