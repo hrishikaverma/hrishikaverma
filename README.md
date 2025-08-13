@@ -43,6 +43,7 @@ with a keen interest in building robust applications that solve real-world probl
 
 
 ---
+### 🚀 Featured Project
 
 1️⃣ Full-Stack Portfolio Website (Next.js, Node.js, PostgreSQL, Netlify)
 
