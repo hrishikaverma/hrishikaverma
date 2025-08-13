@@ -44,14 +44,29 @@ with a keen interest in building robust applications that solve real-world probl
 
 ---
 
-### 🚀 Featured Project
-#### ⚡ Electricity Billing System (In Progress)
-I'm working on a complete **Electricity Billing System** that includes:
-- **User Profile Management** for easy access and updates
-- A **dynamic settings dashboard** with customizable options and a professional color scheme
-- Enhanced UI/UX with animations and thoughtful design, making it both functional and engaging
+1️⃣ Full-Stack Portfolio Website (Next.js, Node.js, PostgreSQL, Netlify)
 
-This project reflects my commitment to building practical, user-centric solutions!
+Highlights full-stack skills, performance optimization, SEO, and design sense.
+
+Represents your personal brand and technical growth.
+
+2️⃣ Electricity Billing System (MERN/Full-stack)
+
+Real-world utility project with user profiles, settings dashboard, and responsive design.
+
+Shows problem-solving and UI/UX customization ability.
+
+3️⃣ Disease Prediction System (Python, AI/ML, MySQL)
+
+Demonstrates data science and AI/ML skills.
+
+Includes real-time prediction using public datasets.
+
+4️⃣ iVaastu – Interior Designer Website (React, Node.js, MongoDB, GSAP)
+
+Feature-rich with admin panel, booking system, payment integration, and animations.
+
+Showcases advanced frontend + backend integration.
 
 ---
 
